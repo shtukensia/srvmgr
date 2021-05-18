@@ -6301,7 +6301,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>10</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>120</experience>
+			<experience>60</experience>
 			<treasureGold>60</treasureGold>
 			<treasureGoldMin>90</treasureGoldMin>
 			<treasureGoldMax>270</treasureGoldMax>
@@ -6369,7 +6369,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>10</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>640</experience>
+			<experience>320</experience>
 			<treasureGold>60</treasureGold>
 			<treasureGoldMin>630</treasureGoldMin>
 			<treasureGoldMax>1809</treasureGoldMax>
@@ -6437,7 +6437,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>10</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>3376</experience>
+			<experience>1688</experience>
 			<treasureGold>60</treasureGold>
 			<treasureGoldMin>4410</treasureGoldMin>
 			<treasureGoldMax>12120</treasureGoldMax>
@@ -6505,7 +6505,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>10</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>17726</experience>
+			<experience>8863</experience>
 			<treasureGold>60</treasureGold>
 			<treasureGoldMin>30870</treasureGoldMin>
 			<treasureGoldMax>81207</treasureGoldMax>
@@ -6573,7 +6573,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>10</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>1171256</experience>
+			<experience>585628</experience>
 			<treasureGold>60</treasureGold>
 			<treasureGoldMin>92610</treasureGoldMin>
 			<treasureGoldMax>243618</treasureGoldMax>
@@ -6641,7 +6641,7 @@
 			<withdraw>60</withdraw>
 			<wimpy>8</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>144</experience>
+			<experience>72</experience>
 			<treasureGold>60</treasureGold>
 			<treasureGoldMin>90</treasureGoldMin>
 			<treasureGoldMax>270</treasureGoldMax>
@@ -6709,7 +6709,7 @@
 			<withdraw>60</withdraw>
 			<wimpy>8</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>770</experience>
+			<experience>385</experience>
 			<treasureGold>60</treasureGold>
 			<treasureGoldMin>630</treasureGoldMin>
 			<treasureGoldMax>1809</treasureGoldMax>
@@ -6777,7 +6777,7 @@
 			<withdraw>60</withdraw>
 			<wimpy>8</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>4050</experience>
+			<experience>2025</experience>
 			<treasureGold>60</treasureGold>
 			<treasureGoldMin>4410</treasureGoldMin>
 			<treasureGoldMax>12120</treasureGoldMax>
@@ -6845,7 +6845,7 @@
 			<withdraw>60</withdraw>
 			<wimpy>8</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>21272</experience>
+			<experience>10636</experience>
 			<treasureGold>60</treasureGold>
 			<treasureGoldMin>30870</treasureGoldMin>
 			<treasureGoldMax>81207</treasureGoldMax>
@@ -6913,7 +6913,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>8</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>920516</experience>
+			<experience>460258</experience>
 			<treasureGold>60</treasureGold>
 			<treasureGoldMin>92610</treasureGoldMin>
 			<treasureGoldMax>243618</treasureGoldMax>
@@ -6981,7 +6981,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>610</experience>
+			<experience>305</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>270</treasureGoldMin>
 			<treasureGoldMax>810</treasureGoldMax>
@@ -7049,7 +7049,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>3214</experience>
+			<experience>1607</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>1890</treasureGoldMin>
 			<treasureGoldMax>5427</treasureGoldMax>
@@ -7117,7 +7117,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>16882</experience>
+			<experience>8441</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>13230</treasureGoldMin>
 			<treasureGoldMax>36360</treasureGoldMax>
@@ -7185,7 +7185,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>88634</experience>
+			<experience>44317</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>92610</treasureGoldMin>
 			<treasureGoldMax>243618</treasureGoldMax>
@@ -7253,7 +7253,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>2035310</experience>
+			<experience>1017655</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>277830</treasureGoldMin>
 			<treasureGoldMax>730854</treasureGoldMax>
@@ -7321,7 +7321,7 @@
 			<withdraw>90</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>856</experience>
+			<experience>428</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>270</treasureGoldMin>
 			<treasureGoldMax>810</treasureGoldMax>
@@ -7389,7 +7389,7 @@
 			<withdraw>90</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>4500</experience>
+			<experience>2250</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>1890</treasureGoldMin>
 			<treasureGoldMax>5427</treasureGoldMax>
@@ -7457,7 +7457,7 @@
 			<withdraw>90</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>23634</experience>
+			<experience>11817</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>13230</treasureGoldMin>
 			<treasureGoldMax>36360</treasureGoldMax>
@@ -7525,7 +7525,7 @@
 			<withdraw>90</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>124088</experience>
+			<experience>62044</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>92610</treasureGoldMin>
 			<treasureGoldMax>243618</treasureGoldMax>
@@ -7593,7 +7593,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>1881620</experience>
+			<experience>940810</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>277830</treasureGoldMin>
 			<treasureGoldMax>730854</treasureGoldMax>
@@ -7661,7 +7661,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>2450</experience>
+			<experience>1225</experience>
 			<treasureGold>90</treasureGold>
 			<treasureGoldMin>450</treasureGoldMin>
 			<treasureGoldMax>2250</treasureGoldMax>
@@ -7729,7 +7729,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>12862</experience>
+			<experience>6431</experience>
 			<treasureGold>90</treasureGold>
 			<treasureGoldMin>3150</treasureGoldMin>
 			<treasureGoldMax>15075</treasureGoldMax>
@@ -7797,7 +7797,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>67530</experience>
+			<experience>33765</experience>
 			<treasureGold>90</treasureGold>
 			<treasureGoldMin>22050</treasureGoldMin>
 			<treasureGoldMax>101004</treasureGoldMax>
@@ -7865,7 +7865,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>354544</experience>
+			<experience>177272</experience>
 			<treasureGold>90</treasureGold>
 			<treasureGoldMin>154350</treasureGoldMin>
 			<treasureGoldMax>676416</treasureGoldMax>
@@ -7933,7 +7933,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>3007324</experience>
+			<experience>1503662</experience>
 			<treasureGold>90</treasureGold>
 			<treasureGoldMin>463050</treasureGoldMin>
 			<treasureGoldMax>2030151</treasureGoldMax>
@@ -8001,7 +8001,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>3674</experience>
+			<experience>1837</experience>
 			<treasureGold>90</treasureGold>
 			<treasureGoldMin>1800</treasureGoldMin>
 			<treasureGoldMax>2700</treasureGoldMax>
@@ -8069,7 +8069,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>19294</experience>
+			<experience>9647</experience>
 			<treasureGold>90</treasureGold>
 			<treasureGoldMin>12600</treasureGoldMin>
 			<treasureGoldMax>18090</treasureGoldMax>
@@ -8137,7 +8137,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>101296</experience>
+			<experience>50648</experience>
 			<treasureGold>90</treasureGold>
 			<treasureGoldMin>88200</treasureGoldMin>
 			<treasureGoldMax>121203</treasureGoldMax>
@@ -8205,7 +8205,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>531818</experience>
+			<experience>265909</experience>
 			<treasureGold>90</treasureGold>
 			<treasureGoldMin>617400</treasureGoldMin>
 			<treasureGoldMax>812061</treasureGoldMax>
@@ -8273,7 +8273,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>3575048</experience>
+			<experience>1787524</experience>
 			<treasureGold>90</treasureGold>
 			<treasureGoldMin>1852200</treasureGoldMin>
 			<treasureGoldMax>2436180</treasureGoldMax>
@@ -8341,7 +8341,7 @@
 			<withdraw>15</withdraw>
 			<wimpy>4</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>182</experience>
+			<experience>91</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -8409,7 +8409,7 @@
 			<withdraw>15</withdraw>
 			<wimpy>4</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>964</experience>
+			<experience>482</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -8477,7 +8477,7 @@
 			<withdraw>15</withdraw>
 			<wimpy>4</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>5064</experience>
+			<experience>2532</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -8545,7 +8545,7 @@
 			<withdraw>15</withdraw>
 			<wimpy>4</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>26588</experience>
+			<experience>13294</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -8613,7 +8613,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>4</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>736020</experience>
+			<experience>368010</experience>
 			<treasureGold>0</treasureGold>
 			<treasureGoldMin>0</treasureGoldMin>
 			<treasureGoldMax>0</treasureGoldMax>
@@ -8681,7 +8681,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>244</experience>
+			<experience>122</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -8749,7 +8749,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>1284</experience>
+			<experience>642</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -8817,7 +8817,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>6752</experience>
+			<experience>3376</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -8885,7 +8885,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>5</seeInvisible>
-			<experience>35452</experience>
+			<experience>17726</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -8953,7 +8953,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>7</seeInvisible>
-			<experience>504932</experience>
+			<experience>252466</experience>
 			<treasureGold>0</treasureGold>
 			<treasureGoldMin>0</treasureGoldMin>
 			<treasureGoldMax>0</treasureGoldMax>
@@ -9021,7 +9021,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>3</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>170</experience>
+			<experience>85</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -9089,7 +9089,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>3</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>898</experience>
+			<experience>449</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -9157,7 +9157,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>3</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>4724</experience>
+			<experience>2362</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -9225,7 +9225,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>3</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>24816</experience>
+			<experience>12408</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -9293,7 +9293,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>3</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>904720</experience>
+			<experience>452360</experience>
 			<treasureGold>0</treasureGold>
 			<treasureGoldMin>0</treasureGoldMin>
 			<treasureGoldMax>0</treasureGoldMax>
@@ -9361,7 +9361,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>5</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>72</experience>
+			<experience>36</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -9429,7 +9429,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>5</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>382</experience>
+			<experience>191</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -9497,7 +9497,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>5</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>2024</experience>
+			<experience>1012</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -9565,7 +9565,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>5</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>10632</experience>
+			<experience>5316</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -9633,7 +9633,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>5</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>314824</experience>
+			<experience>157412</experience>
 			<treasureGold>0</treasureGold>
 			<treasureGoldMin>0</treasureGoldMin>
 			<treasureGoldMax>0</treasureGoldMax>
@@ -9701,7 +9701,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>0</seeInvisible>
-			<experience>46</experience>
+			<experience>23</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -9769,7 +9769,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>0</seeInvisible>
-			<experience>254</experience>
+			<experience>127</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -9837,7 +9837,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>1350</experience>
+			<experience>675</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -9905,7 +9905,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>7088</experience>
+			<experience>3544</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -9973,7 +9973,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>340868</experience>
+			<experience>170434</experience>
 			<treasureGold>0</treasureGold>
 			<treasureGoldMin>0</treasureGoldMin>
 			<treasureGoldMax>0</treasureGoldMax>
@@ -10041,7 +10041,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>194</experience>
+			<experience>97</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -10109,7 +10109,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>1028</experience>
+			<experience>514</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -10177,7 +10177,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>5402</experience>
+			<experience>2701</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -10245,7 +10245,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>28362</experience>
+			<experience>14181</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -10313,7 +10313,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>567276</experience>
+			<experience>283638</experience>
 			<treasureGold>0</treasureGold>
 			<treasureGoldMin>0</treasureGoldMin>
 			<treasureGoldMax>0</treasureGoldMax>
@@ -10381,7 +10381,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>11024</experience>
+			<experience>5512</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>9000</treasureGoldMin>
 			<treasureGoldMax>18000</treasureGoldMax>
@@ -10456,7 +10456,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>57882</experience>
+			<experience>28941</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>63000</treasureGoldMin>
 			<treasureGoldMax>120600</treasureGoldMax>
@@ -10531,7 +10531,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>5</seeInvisible>
-			<experience>303896</experience>
+			<experience>151948</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>441000</treasureGoldMin>
 			<treasureGoldMax>808020</treasureGoldMax>
@@ -10609,7 +10609,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>1023750</experience>
+			<experience>511875</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>3087000</treasureGoldMin>
 			<treasureGoldMax>5413734</treasureGoldMax>
@@ -10689,7 +10689,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>8</seeInvisible>
-			<experience>5444798</experience>
+			<experience>2722399</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>9261000</treasureGoldMin>
 			<treasureGoldMax>16241202</treasureGoldMax>
@@ -10769,7 +10769,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>10</seeInvisible>
-			<experience>10209000</experience>
+			<experience>5104500</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>15000000</treasureGoldMin>
 			<treasureGoldMax>27000000</treasureGoldMax>
@@ -10840,7 +10840,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>488</experience>
+			<experience>244</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>900</treasureGoldMin>
 			<treasureGoldMax>1800</treasureGoldMax>
@@ -10916,7 +10916,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>3280</experience>
+			<experience>1640</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>6300</treasureGoldMin>
 			<treasureGoldMax>12060</treasureGoldMax>
@@ -10993,7 +10993,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>21996</experience>
+			<experience>10998</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>44100</treasureGoldMin>
 			<treasureGoldMax>80802</treasureGoldMax>
@@ -11071,7 +11071,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>147380</experience>
+			<experience>73690</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>571740</treasureGoldMin>
 			<treasureGoldMax>722061</treasureGoldMax>
@@ -11149,7 +11149,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>907304</experience>
+			<experience>453652</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>1552200</treasureGoldMin>
 			<treasureGoldMax>2136180</treasureGoldMax>
@@ -11227,7 +11227,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>488</experience>
+			<experience>244</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>90</treasureGoldMin>
 			<treasureGoldMax>630</treasureGoldMax>
@@ -11295,7 +11295,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>3280</experience>
+			<experience>1640</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>630</treasureGoldMin>
 			<treasureGoldMax>4221</treasureGoldMax>
@@ -11363,7 +11363,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>21996</experience>
+			<experience>10998</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>4410</treasureGoldMin>
 			<treasureGoldMax>28281</treasureGoldMax>
@@ -11431,7 +11431,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>147380</experience>
+			<experience>73690</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>30870</treasureGoldMin>
 			<treasureGoldMax>189480</treasureGoldMax>
@@ -11499,7 +11499,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>1315664</experience>
+			<experience>657832</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>92610</treasureGoldMin>
 			<treasureGoldMax>568443</treasureGoldMax>
@@ -11567,7 +11567,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>610</experience>
+			<experience>305</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>630</treasureGoldMin>
 			<treasureGoldMax>4221</treasureGoldMax>
@@ -11635,7 +11635,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>4102</experience>
+			<experience>2051</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>4410</treasureGoldMin>
 			<treasureGoldMax>28281</treasureGoldMax>
@@ -11703,7 +11703,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>27496</experience>
+			<experience>13748</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>30870</treasureGoldMin>
 			<treasureGoldMax>189480</treasureGoldMax>
@@ -11771,7 +11771,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>1163688</experience>
+			<experience>581844</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>92610</treasureGoldMin>
 			<treasureGoldMax>568443</treasureGoldMax>
@@ -11839,7 +11839,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>672</experience>
+			<experience>336</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>450</treasureGoldMin>
 			<treasureGoldMax>990</treasureGoldMax>
@@ -11907,7 +11907,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>4512</experience>
+			<experience>2256</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>3150</treasureGoldMin>
 			<treasureGoldMax>6633</treasureGoldMax>
@@ -11975,7 +11975,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>30246</experience>
+			<experience>15123</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>22050</treasureGoldMin>
 			<treasureGoldMax>44442</treasureGoldMax>
@@ -12043,7 +12043,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>202650</experience>
+			<experience>101325</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>154350</treasureGoldMin>
 			<treasureGoldMax>297756</treasureGoldMax>
@@ -12111,7 +12111,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>1630384</experience>
+			<experience>815192</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>463050</treasureGoldMin>
 			<treasureGoldMax>893265</treasureGoldMax>
@@ -12179,7 +12179,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>734</experience>
+			<experience>367</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>450</treasureGoldMin>
 			<treasureGoldMax>990</treasureGoldMax>
@@ -12247,7 +12247,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>4922</experience>
+			<experience>2461</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>3150</treasureGoldMin>
 			<treasureGoldMax>6633</treasureGoldMax>
@@ -12315,7 +12315,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>32994</experience>
+			<experience>16497</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>22050</treasureGoldMin>
 			<treasureGoldMax>44442</treasureGoldMax>
@@ -12383,7 +12383,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>221072</experience>
+			<experience>110536</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>154350</treasureGoldMin>
 			<treasureGoldMax>297756</treasureGoldMax>
@@ -12451,7 +12451,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>1258868</experience>
+			<experience>629434</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>463050</treasureGoldMin>
 			<treasureGoldMax>893265</treasureGoldMax>
@@ -12519,7 +12519,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>2450</experience>
+			<experience>1225</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>88200</treasureGoldMin>
 			<treasureGoldMax>177762</treasureGoldMax>
@@ -12595,7 +12595,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>16414</experience>
+			<experience>8207</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>617400</treasureGoldMin>
 			<treasureGoldMax>1191021</treasureGoldMax>
@@ -12673,7 +12673,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>8</seeInvisible>
-			<experience>940860</experience>
+			<experience>470430</experience>
 			<treasureGold>80</treasureGold>
 			<treasureGoldMin>1852200</treasureGoldMin>
 			<treasureGoldMax>3573063</treasureGoldMax>
@@ -12752,7 +12752,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>100</experience>
+			<experience>50</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -12828,7 +12828,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>100</experience>
+			<experience>50</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -13327,7 +13327,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>4102</experience>
+			<experience>2051</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -13402,7 +13402,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>4102</experience>
+			<experience>2051</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -13477,7 +13477,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>6154</experience>
+			<experience>3077</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -13553,7 +13553,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>27496</experience>
+			<experience>13748</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -13628,7 +13628,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>27496</experience>
+			<experience>13748</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -13704,7 +13704,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>41244</experience>
+			<experience>20622</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -13779,7 +13779,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>184226</experience>
+			<experience>92113</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -13854,7 +13854,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>184226</experience>
+			<experience>92113</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -13930,7 +13930,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>276340</experience>
+			<experience>138170</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -14006,7 +14006,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>368458</experience>
+			<experience>184229</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -14081,7 +14081,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>368458</experience>
+			<experience>184229</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -14157,7 +14157,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>552686</experience>
+			<experience>276343</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -14233,7 +14233,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>610</experience>
+			<experience>305</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>900</treasureGoldMin>
 			<treasureGoldMax>4500</treasureGoldMax>
@@ -14308,7 +14308,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>610</experience>
+			<experience>305</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>900</treasureGoldMin>
 			<treasureGoldMax>4500</treasureGoldMax>
@@ -14383,7 +14383,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>918</experience>
+			<experience>459</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>2700</treasureGoldMin>
 			<treasureGoldMax>13500</treasureGoldMax>
@@ -14459,7 +14459,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>4102</experience>
+			<experience>2051</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>6300</treasureGoldMin>
 			<treasureGoldMax>31500</treasureGoldMax>
@@ -14535,7 +14535,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>4102</experience>
+			<experience>2051</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>6300</treasureGoldMin>
 			<treasureGoldMax>31500</treasureGoldMax>
@@ -14611,7 +14611,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>6154</experience>
+			<experience>3077</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>18900</treasureGoldMin>
 			<treasureGoldMax>94500</treasureGoldMax>
@@ -14688,7 +14688,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>27496</experience>
+			<experience>13748</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>44100</treasureGoldMin>
 			<treasureGoldMax>220500</treasureGoldMax>
@@ -14765,7 +14765,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>27496</experience>
+			<experience>13748</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>44100</treasureGoldMin>
 			<treasureGoldMax>220500</treasureGoldMax>
@@ -14842,7 +14842,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>41244</experience>
+			<experience>20622</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>132300</treasureGoldMin>
 			<treasureGoldMax>661500</treasureGoldMax>
@@ -14920,7 +14920,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>184226</experience>
+			<experience>92113</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>308700</treasureGoldMin>
 			<treasureGoldMax>1543500</treasureGoldMax>
@@ -14999,7 +14999,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>184226</experience>
+			<experience>92113</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>308700</treasureGoldMin>
 			<treasureGoldMax>1543500</treasureGoldMax>
@@ -15078,7 +15078,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>276340</experience>
+			<experience>138170</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>926100</treasureGoldMin>
 			<treasureGoldMax>4630500</treasureGoldMax>
@@ -15158,7 +15158,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>980998</experience>
+			<experience>490499</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>926100</treasureGoldMin>
 			<treasureGoldMax>4630500</treasureGoldMax>
@@ -15237,7 +15237,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>980998</experience>
+			<experience>490499</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>926100</treasureGoldMin>
 			<treasureGoldMax>4630500</treasureGoldMax>
@@ -15316,7 +15316,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>6</seeInvisible>
-			<experience>1573586</experience>
+			<experience>786793</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>2778300</treasureGoldMin>
 			<treasureGoldMax>13891500</treasureGoldMax>
@@ -15396,7 +15396,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>27496</experience>
+			<experience>13748</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -15471,7 +15471,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>27496</experience>
+			<experience>13748</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -15546,7 +15546,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>27496</experience>
+			<experience>13748</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -15622,7 +15622,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>27496</experience>
+			<experience>13748</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -15697,7 +15697,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>41244</experience>
+			<experience>20622</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -15773,7 +15773,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>41244</experience>
+			<experience>20622</experience>
 			<treasureGold>0</treasureGold>
 			<treasureGoldMin>132300</treasureGoldMin>
 			<treasureGoldMax>661500</treasureGoldMax>
@@ -15852,7 +15852,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>27496</experience>
+			<experience>13748</experience>
 			<treasureGold>0</treasureGold>
 			<treasureGoldMin>308700</treasureGoldMin>
 			<treasureGoldMax>1543500</treasureGoldMax>
@@ -15930,7 +15930,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>20</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>120</experience>
+			<experience>60</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -15998,7 +15998,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>32</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>640</experience>
+			<experience>320</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -16066,7 +16066,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>51</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>3376</experience>
+			<experience>1688</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -16134,7 +16134,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>82</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>17726</experience>
+			<experience>8863</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -16202,7 +16202,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>82</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>558716</experience>
+			<experience>279358</experience>
 			<treasureGold>0</treasureGold>
 			<treasureGoldMin>0</treasureGoldMin>
 			<treasureGoldMax>0</treasureGoldMax>
@@ -16270,7 +16270,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>5</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>144</experience>
+			<experience>72</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -16338,7 +16338,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>8</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>770</experience>
+			<experience>385</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -16406,7 +16406,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>13</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>4050</experience>
+			<experience>2025</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -16474,7 +16474,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>20</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>21272</experience>
+			<experience>10636</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -16542,7 +16542,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>20</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>629628</experience>
+			<experience>314814</experience>
 			<treasureGold>0</treasureGold>
 			<treasureGoldMin>0</treasureGoldMin>
 			<treasureGoldMax>0</treasureGoldMax>
@@ -16610,7 +16610,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>33</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>1836</experience>
+			<experience>918</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>1800</treasureGoldMin>
 			<treasureGoldMax>2700</treasureGoldMax>
@@ -16686,7 +16686,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>53</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>9646</experience>
+			<experience>4823</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>12600</treasureGoldMin>
 			<treasureGoldMax>18090</treasureGoldMax>
@@ -16762,7 +16762,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>85</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>50648</experience>
+			<experience>25324</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>88200</treasureGoldMin>
 			<treasureGoldMax>121203</treasureGoldMax>
@@ -16839,7 +16839,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>137</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>265906</experience>
+			<experience>132953</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>617400</treasureGoldMin>
 			<treasureGoldMax>812061</treasureGoldMax>
@@ -16919,7 +16919,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>137</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>2949264</experience>
+			<experience>1474632</experience>
 			<treasureGold>100</treasureGold>
 			<treasureGoldMin>1852200</treasureGoldMin>
 			<treasureGoldMax>2436180</treasureGoldMax>
@@ -16999,7 +16999,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>10</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>610</experience>
+			<experience>305</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -17067,7 +17067,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>16</wimpy>
 			<seeInvisible>2</seeInvisible>
-			<experience>3214</experience>
+			<experience>1607</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -17135,7 +17135,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>26</wimpy>
 			<seeInvisible>3</seeInvisible>
-			<experience>16882</experience>
+			<experience>8441</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -17203,7 +17203,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>41</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>88634</experience>
+			<experience>44317</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -17271,7 +17271,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>41</wimpy>
 			<seeInvisible>4</seeInvisible>
-			<experience>1772734</experience>
+			<experience>886367</experience>
 			<treasureGold>0</treasureGold>
 			<treasureGoldMin>0</treasureGoldMin>
 			<treasureGoldMax>0</treasureGoldMax>
@@ -17339,7 +17339,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>1</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>18</experience>
+			<experience>9</experience>
 			<treasureGold>-1</treasureGold>
 			<treasureGoldMin>-1</treasureGoldMin>
 			<treasureGoldMax>-1</treasureGoldMax>
@@ -18880,7 +18880,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>4900</experience>
+			<experience>2450</experience>
 			<treasureGold>95</treasureGold>
 			<treasureGoldMin>6000</treasureGoldMin>
 			<treasureGoldMax>7500</treasureGoldMax>
@@ -18948,7 +18948,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>32156</experience>
+			<experience>16078</experience>
 			<treasureGold>95</treasureGold>
 			<treasureGoldMin>45000</treasureGoldMin>
 			<treasureGoldMax>60000</treasureGoldMax>
@@ -19016,7 +19016,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>180000</experience>
+			<experience>90000</experience>
 			<treasureGold>95</treasureGold>
 			<treasureGoldMin>240000</treasureGoldMin>
 			<treasureGoldMax>360000</treasureGoldMax>
@@ -19084,7 +19084,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>800000</experience>
+			<experience>400000</experience>
 			<treasureGold>95</treasureGold>
 			<treasureGoldMin>1200000</treasureGoldMin>
 			<treasureGoldMax>2400000</treasureGoldMax>
@@ -19152,7 +19152,7 @@
 			<withdraw>0</withdraw>
 			<wimpy>0</wimpy>
 			<seeInvisible>1</seeInvisible>
-			<experience>4335670</experience>
+			<experience>2167835</experience>
 			<treasureGold>95</treasureGold>
 			<treasureGoldMin>3000000</treasureGoldMin>
 			<treasureGoldMax>6000000</treasureGoldMax>
