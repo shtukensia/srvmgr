@@ -15,17 +15,17 @@ error_reporting(0);
 //define(OUTPUT_XML, "D:\GitHub\srvmgr\postbuild\_data\_data_3easy_medium.xml");
 
 // 4-MEDUM
-define(ORIGINAL_XML, "D:\GitHub\srvmgr\postbuild\_data\data_4medium.xml");
-define(OUTPUT_XML, "D:\GitHub\srvmgr\postbuild\_data\_data_4medium.xml");
+define(ORIGINAL_XML, "D:\GitHub\srvmgr\postbuild\_data\data_8_t1.xml");
+define(OUTPUT_XML, "D:\GitHub\srvmgr\postbuild\_data\_data_8_t1.xml");
 
-define(COEFFICIENT, 0.75);
+define(COEFFICIENT, 3);
 
 // functions
 
 function matchRULES($out) {
 	
-	if(preg_match("<experience>", $out)) {
-		$search = str_replace(array("<experience>", "</experience>"), "", $out);
+	if(preg_match("<treasureGoldMin>", $out)) {
+		$search = str_replace(array("<treasureGoldMin>", "</treasureGoldMin>"), "", $out);
 		$int = intval($search);
 		$newint = ($int != "-1") ? intval(COEFFICIENT * $int) : $int;
 		echo "Replacing: ".$int."->".$newint.PHP_EOL;

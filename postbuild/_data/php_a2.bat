@@ -1,3 +1,4 @@
+rem UNCOMMENT 1st
 cd D:\GitHub\php
-php D:\GitHub\srvmgr\postbuild\_data\1.php
+rem php D:\GitHub\srvmgr\postbuild\_data\1.php
 pause

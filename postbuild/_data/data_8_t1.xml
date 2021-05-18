@@ -6303,8 +6303,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>60</experience>
 			<treasureGold>60</treasureGold>
-			<treasureGoldMin>30</treasureGoldMin>
-			<treasureGoldMax>90</treasureGoldMax>
+			<treasureGoldMin>90</treasureGoldMin>
+			<treasureGoldMax>270</treasureGoldMax>
 			<treasureItem>0</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -6371,8 +6371,8 @@
 			<seeInvisible>2</seeInvisible>
 			<experience>320</experience>
 			<treasureGold>60</treasureGold>
-			<treasureGoldMin>210</treasureGoldMin>
-			<treasureGoldMax>603</treasureGoldMax>
+			<treasureGoldMin>630</treasureGoldMin>
+			<treasureGoldMax>1809</treasureGoldMax>
 			<treasureItem>0</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -6439,8 +6439,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>1688</experience>
 			<treasureGold>60</treasureGold>
-			<treasureGoldMin>1470</treasureGoldMin>
-			<treasureGoldMax>4040</treasureGoldMax>
+			<treasureGoldMin>4410</treasureGoldMin>
+			<treasureGoldMax>12120</treasureGoldMax>
 			<treasureItem>0</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -6507,8 +6507,8 @@
 			<seeInvisible>4</seeInvisible>
 			<experience>8863</experience>
 			<treasureGold>60</treasureGold>
-			<treasureGoldMin>10290</treasureGoldMin>
-			<treasureGoldMax>27069</treasureGoldMax>
+			<treasureGoldMin>30870</treasureGoldMin>
+			<treasureGoldMax>81207</treasureGoldMax>
 			<treasureItem>0</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -6575,8 +6575,8 @@
 			<seeInvisible>6</seeInvisible>
 			<experience>585628</experience>
 			<treasureGold>60</treasureGold>
-			<treasureGoldMin>30870</treasureGoldMin>
-			<treasureGoldMax>81206</treasureGoldMax>
+			<treasureGoldMin>92610</treasureGoldMin>
+			<treasureGoldMax>243618</treasureGoldMax>
 			<treasureItem>0</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -6643,8 +6643,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>72</experience>
 			<treasureGold>60</treasureGold>
-			<treasureGoldMin>30</treasureGoldMin>
-			<treasureGoldMax>90</treasureGoldMax>
+			<treasureGoldMin>90</treasureGoldMin>
+			<treasureGoldMax>270</treasureGoldMax>
 			<treasureItem>0</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -6711,8 +6711,8 @@
 			<seeInvisible>2</seeInvisible>
 			<experience>385</experience>
 			<treasureGold>60</treasureGold>
-			<treasureGoldMin>210</treasureGoldMin>
-			<treasureGoldMax>603</treasureGoldMax>
+			<treasureGoldMin>630</treasureGoldMin>
+			<treasureGoldMax>1809</treasureGoldMax>
 			<treasureItem>0</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -6779,8 +6779,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>2025</experience>
 			<treasureGold>60</treasureGold>
-			<treasureGoldMin>1470</treasureGoldMin>
-			<treasureGoldMax>4040</treasureGoldMax>
+			<treasureGoldMin>4410</treasureGoldMin>
+			<treasureGoldMax>12120</treasureGoldMax>
 			<treasureItem>0</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -6847,8 +6847,8 @@
 			<seeInvisible>4</seeInvisible>
 			<experience>10636</experience>
 			<treasureGold>60</treasureGold>
-			<treasureGoldMin>10290</treasureGoldMin>
-			<treasureGoldMax>27069</treasureGoldMax>
+			<treasureGoldMin>30870</treasureGoldMin>
+			<treasureGoldMax>81207</treasureGoldMax>
 			<treasureItem>0</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -6915,8 +6915,8 @@
 			<seeInvisible>6</seeInvisible>
 			<experience>460258</experience>
 			<treasureGold>60</treasureGold>
-			<treasureGoldMin>30870</treasureGoldMin>
-			<treasureGoldMax>81206</treasureGoldMax>
+			<treasureGoldMin>92610</treasureGoldMin>
+			<treasureGoldMax>243618</treasureGoldMax>
 			<treasureItem>0</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -6983,8 +6983,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>305</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>90</treasureGoldMin>
-			<treasureGoldMax>270</treasureGoldMax>
+			<treasureGoldMin>270</treasureGoldMin>
+			<treasureGoldMax>810</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>180</treasureItemMin>
 			<treasureItemMax>540</treasureItemMax>
@@ -7051,8 +7051,8 @@
 			<seeInvisible>2</seeInvisible>
 			<experience>1607</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>630</treasureGoldMin>
-			<treasureGoldMax>1809</treasureGoldMax>
+			<treasureGoldMin>1890</treasureGoldMin>
+			<treasureGoldMax>5427</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>1260</treasureItemMin>
 			<treasureItemMax>3618</treasureItemMax>
@@ -7119,8 +7119,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>8441</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>4410</treasureGoldMin>
-			<treasureGoldMax>12120</treasureGoldMax>
+			<treasureGoldMin>13230</treasureGoldMin>
+			<treasureGoldMax>36360</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>8820</treasureItemMin>
 			<treasureItemMax>24241</treasureItemMax>
@@ -7187,8 +7187,8 @@
 			<seeInvisible>4</seeInvisible>
 			<experience>44317</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>30870</treasureGoldMin>
-			<treasureGoldMax>81206</treasureGoldMax>
+			<treasureGoldMin>92610</treasureGoldMin>
+			<treasureGoldMax>243618</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>61740</treasureItemMin>
 			<treasureItemMax>162412</treasureItemMax>
@@ -7255,8 +7255,8 @@
 			<seeInvisible>6</seeInvisible>
 			<experience>1017655</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>92610</treasureGoldMin>
-			<treasureGoldMax>243618</treasureGoldMax>
+			<treasureGoldMin>277830</treasureGoldMin>
+			<treasureGoldMax>730854</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>185220</treasureItemMin>
 			<treasureItemMax>487236</treasureItemMax>
@@ -7323,8 +7323,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>428</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>90</treasureGoldMin>
-			<treasureGoldMax>270</treasureGoldMax>
+			<treasureGoldMin>270</treasureGoldMin>
+			<treasureGoldMax>810</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>180</treasureItemMin>
 			<treasureItemMax>540</treasureItemMax>
@@ -7391,8 +7391,8 @@
 			<seeInvisible>2</seeInvisible>
 			<experience>2250</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>630</treasureGoldMin>
-			<treasureGoldMax>1809</treasureGoldMax>
+			<treasureGoldMin>1890</treasureGoldMin>
+			<treasureGoldMax>5427</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>1260</treasureItemMin>
 			<treasureItemMax>3618</treasureItemMax>
@@ -7459,8 +7459,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>11817</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>4410</treasureGoldMin>
-			<treasureGoldMax>12120</treasureGoldMax>
+			<treasureGoldMin>13230</treasureGoldMin>
+			<treasureGoldMax>36360</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>8820</treasureItemMin>
 			<treasureItemMax>24241</treasureItemMax>
@@ -7527,8 +7527,8 @@
 			<seeInvisible>4</seeInvisible>
 			<experience>62044</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>30870</treasureGoldMin>
-			<treasureGoldMax>81206</treasureGoldMax>
+			<treasureGoldMin>92610</treasureGoldMin>
+			<treasureGoldMax>243618</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>61740</treasureItemMin>
 			<treasureItemMax>162412</treasureItemMax>
@@ -7595,8 +7595,8 @@
 			<seeInvisible>6</seeInvisible>
 			<experience>940810</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>92610</treasureGoldMin>
-			<treasureGoldMax>243618</treasureGoldMax>
+			<treasureGoldMin>277830</treasureGoldMin>
+			<treasureGoldMax>730854</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>185220</treasureItemMin>
 			<treasureItemMax>487236</treasureItemMax>
@@ -7663,8 +7663,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>1225</experience>
 			<treasureGold>90</treasureGold>
-			<treasureGoldMin>150</treasureGoldMin>
-			<treasureGoldMax>750</treasureGoldMax>
+			<treasureGoldMin>450</treasureGoldMin>
+			<treasureGoldMax>2250</treasureGoldMax>
 			<treasureItem>40</treasureItem>
 			<treasureItemMin>300</treasureItemMin>
 			<treasureItemMax>1500</treasureItemMax>
@@ -7731,8 +7731,8 @@
 			<seeInvisible>2</seeInvisible>
 			<experience>6431</experience>
 			<treasureGold>90</treasureGold>
-			<treasureGoldMin>1050</treasureGoldMin>
-			<treasureGoldMax>5025</treasureGoldMax>
+			<treasureGoldMin>3150</treasureGoldMin>
+			<treasureGoldMax>15075</treasureGoldMax>
 			<treasureItem>40</treasureItem>
 			<treasureItemMin>2100</treasureItemMin>
 			<treasureItemMax>10050</treasureItemMax>
@@ -7799,8 +7799,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>33765</experience>
 			<treasureGold>90</treasureGold>
-			<treasureGoldMin>7350</treasureGoldMin>
-			<treasureGoldMax>33668</treasureGoldMax>
+			<treasureGoldMin>22050</treasureGoldMin>
+			<treasureGoldMax>101004</treasureGoldMax>
 			<treasureItem>40</treasureItem>
 			<treasureItemMin>14700</treasureItemMin>
 			<treasureItemMax>67335</treasureItemMax>
@@ -7867,8 +7867,8 @@
 			<seeInvisible>4</seeInvisible>
 			<experience>177272</experience>
 			<treasureGold>90</treasureGold>
-			<treasureGoldMin>51450</treasureGoldMin>
-			<treasureGoldMax>225472</treasureGoldMax>
+			<treasureGoldMin>154350</treasureGoldMin>
+			<treasureGoldMax>676416</treasureGoldMax>
 			<treasureItem>40</treasureItem>
 			<treasureItemMin>102900</treasureItemMin>
 			<treasureItemMax>451145</treasureItemMax>
@@ -7935,8 +7935,8 @@
 			<seeInvisible>6</seeInvisible>
 			<experience>1503662</experience>
 			<treasureGold>90</treasureGold>
-			<treasureGoldMin>154350</treasureGoldMin>
-			<treasureGoldMax>676717</treasureGoldMax>
+			<treasureGoldMin>463050</treasureGoldMin>
+			<treasureGoldMax>2030151</treasureGoldMax>
 			<treasureItem>40</treasureItem>
 			<treasureItemMin>308700</treasureItemMin>
 			<treasureItemMax>1353434</treasureItemMax>
@@ -8003,8 +8003,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>1837</experience>
 			<treasureGold>90</treasureGold>
-			<treasureGoldMin>600</treasureGoldMin>
-			<treasureGoldMax>900</treasureGoldMax>
+			<treasureGoldMin>1800</treasureGoldMin>
+			<treasureGoldMax>2700</treasureGoldMax>
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -8071,8 +8071,8 @@
 			<seeInvisible>2</seeInvisible>
 			<experience>9647</experience>
 			<treasureGold>90</treasureGold>
-			<treasureGoldMin>4200</treasureGoldMin>
-			<treasureGoldMax>6030</treasureGoldMax>
+			<treasureGoldMin>12600</treasureGoldMin>
+			<treasureGoldMax>18090</treasureGoldMax>
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -8139,8 +8139,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>50648</experience>
 			<treasureGold>90</treasureGold>
-			<treasureGoldMin>29400</treasureGoldMin>
-			<treasureGoldMax>40401</treasureGoldMax>
+			<treasureGoldMin>88200</treasureGoldMin>
+			<treasureGoldMax>121203</treasureGoldMax>
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -8207,8 +8207,8 @@
 			<seeInvisible>4</seeInvisible>
 			<experience>265909</experience>
 			<treasureGold>90</treasureGold>
-			<treasureGoldMin>205800</treasureGoldMin>
-			<treasureGoldMax>270687</treasureGoldMax>
+			<treasureGoldMin>617400</treasureGoldMin>
+			<treasureGoldMax>812061</treasureGoldMax>
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -8275,8 +8275,8 @@
 			<seeInvisible>6</seeInvisible>
 			<experience>1787524</experience>
 			<treasureGold>90</treasureGold>
-			<treasureGoldMin>617400</treasureGoldMin>
-			<treasureGoldMax>812060</treasureGoldMax>
+			<treasureGoldMin>1852200</treasureGoldMin>
+			<treasureGoldMax>2436180</treasureGoldMax>
 			<treasureItem>0</treasureItem>
 			<treasureItemMin>0</treasureItemMin>
 			<treasureItemMax>0</treasureItemMax>
@@ -10383,8 +10383,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>5512</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>3000</treasureGoldMin>
-			<treasureGoldMax>6000</treasureGoldMax>
+			<treasureGoldMin>9000</treasureGoldMin>
+			<treasureGoldMax>18000</treasureGoldMax>
 			<treasureItem>100</treasureItem>
 			<treasureItemMin>1500</treasureItemMin>
 			<treasureItemMax>4500</treasureItemMax>
@@ -10458,8 +10458,8 @@
 			<seeInvisible>4</seeInvisible>
 			<experience>28941</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>21000</treasureGoldMin>
-			<treasureGoldMax>40200</treasureGoldMax>
+			<treasureGoldMin>63000</treasureGoldMin>
+			<treasureGoldMax>120600</treasureGoldMax>
 			<treasureItem>100</treasureItem>
 			<treasureItemMin>10500</treasureItemMin>
 			<treasureItemMax>30150</treasureItemMax>
@@ -10533,8 +10533,8 @@
 			<seeInvisible>5</seeInvisible>
 			<experience>151948</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>147000</treasureGoldMin>
-			<treasureGoldMax>269340</treasureGoldMax>
+			<treasureGoldMin>441000</treasureGoldMin>
+			<treasureGoldMax>808020</treasureGoldMax>
 			<treasureItem>100</treasureItem>
 			<treasureItemMin>73500</treasureItemMin>
 			<treasureItemMax>202005</treasureItemMax>
@@ -10611,8 +10611,8 @@
 			<seeInvisible>6</seeInvisible>
 			<experience>511875</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>1029000</treasureGoldMin>
-			<treasureGoldMax>1804578</treasureGoldMax>
+			<treasureGoldMin>3087000</treasureGoldMin>
+			<treasureGoldMax>5413734</treasureGoldMax>
 			<treasureItem>100</treasureItem>
 			<treasureItemMin>514500</treasureItemMin>
 			<treasureItemMax>1353434</treasureItemMax>
@@ -10691,8 +10691,8 @@
 			<seeInvisible>8</seeInvisible>
 			<experience>2722399</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>3087000</treasureGoldMin>
-			<treasureGoldMax>5413734</treasureGoldMax>
+			<treasureGoldMin>9261000</treasureGoldMin>
+			<treasureGoldMax>16241202</treasureGoldMax>
 			<treasureItem>100</treasureItem>
 			<treasureItemMin>1543500</treasureItemMin>
 			<treasureItemMax>4060301</treasureItemMax>
@@ -10771,8 +10771,8 @@
 			<seeInvisible>10</seeInvisible>
 			<experience>5104500</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>5000000</treasureGoldMin>
-			<treasureGoldMax>9000000</treasureGoldMax>
+			<treasureGoldMin>15000000</treasureGoldMin>
+			<treasureGoldMax>27000000</treasureGoldMax>
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -10842,8 +10842,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>244</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>300</treasureGoldMin>
-			<treasureGoldMax>600</treasureGoldMax>
+			<treasureGoldMin>900</treasureGoldMin>
+			<treasureGoldMax>1800</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>600</treasureItemMin>
 			<treasureItemMax>900</treasureItemMax>
@@ -10918,8 +10918,8 @@
 			<seeInvisible>2</seeInvisible>
 			<experience>1640</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>2100</treasureGoldMin>
-			<treasureGoldMax>4020</treasureGoldMax>
+			<treasureGoldMin>6300</treasureGoldMin>
+			<treasureGoldMax>12060</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>4200</treasureItemMin>
 			<treasureItemMax>6030</treasureItemMax>
@@ -10995,8 +10995,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>10998</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>14700</treasureGoldMin>
-			<treasureGoldMax>26934</treasureGoldMax>
+			<treasureGoldMin>44100</treasureGoldMin>
+			<treasureGoldMax>80802</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>29400</treasureItemMin>
 			<treasureItemMax>40401</treasureItemMax>
@@ -11073,8 +11073,8 @@
 			<seeInvisible>4</seeInvisible>
 			<experience>73690</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>190580</treasureGoldMin>
-			<treasureGoldMax>240687</treasureGoldMax>
+			<treasureGoldMin>571740</treasureGoldMin>
+			<treasureGoldMax>722061</treasureGoldMax>
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -11151,8 +11151,8 @@
 			<seeInvisible>6</seeInvisible>
 			<experience>453652</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>517400</treasureGoldMin>
-			<treasureGoldMax>712060</treasureGoldMax>
+			<treasureGoldMin>1552200</treasureGoldMin>
+			<treasureGoldMax>2136180</treasureGoldMax>
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -11229,8 +11229,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>244</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>30</treasureGoldMin>
-			<treasureGoldMax>210</treasureGoldMax>
+			<treasureGoldMin>90</treasureGoldMin>
+			<treasureGoldMax>630</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>300</treasureItemMin>
 			<treasureItemMax>600</treasureItemMax>
@@ -11297,8 +11297,8 @@
 			<seeInvisible>2</seeInvisible>
 			<experience>1640</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>210</treasureGoldMin>
-			<treasureGoldMax>1407</treasureGoldMax>
+			<treasureGoldMin>630</treasureGoldMin>
+			<treasureGoldMax>4221</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>2100</treasureItemMin>
 			<treasureItemMax>4020</treasureItemMax>
@@ -11365,8 +11365,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>10998</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>1470</treasureGoldMin>
-			<treasureGoldMax>9427</treasureGoldMax>
+			<treasureGoldMin>4410</treasureGoldMin>
+			<treasureGoldMax>28281</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>14700</treasureItemMin>
 			<treasureItemMax>26934</treasureItemMax>
@@ -11433,8 +11433,8 @@
 			<seeInvisible>4</seeInvisible>
 			<experience>73690</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>10290</treasureGoldMin>
-			<treasureGoldMax>63160</treasureGoldMax>
+			<treasureGoldMin>30870</treasureGoldMin>
+			<treasureGoldMax>189480</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>102900</treasureItemMin>
 			<treasureItemMax>180458</treasureItemMax>
@@ -11501,8 +11501,8 @@
 			<seeInvisible>6</seeInvisible>
 			<experience>657832</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>30870</treasureGoldMin>
-			<treasureGoldMax>189481</treasureGoldMax>
+			<treasureGoldMin>92610</treasureGoldMin>
+			<treasureGoldMax>568443</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>308700</treasureItemMin>
 			<treasureItemMax>541373</treasureItemMax>
@@ -11569,8 +11569,8 @@
 			<seeInvisible>2</seeInvisible>
 			<experience>305</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>210</treasureGoldMin>
-			<treasureGoldMax>1407</treasureGoldMax>
+			<treasureGoldMin>630</treasureGoldMin>
+			<treasureGoldMax>4221</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>2100</treasureItemMin>
 			<treasureItemMax>4020</treasureItemMax>
@@ -11637,8 +11637,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>2051</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>1470</treasureGoldMin>
-			<treasureGoldMax>9427</treasureGoldMax>
+			<treasureGoldMin>4410</treasureGoldMin>
+			<treasureGoldMax>28281</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>14700</treasureItemMin>
 			<treasureItemMax>26934</treasureItemMax>
@@ -11705,8 +11705,8 @@
 			<seeInvisible>4</seeInvisible>
 			<experience>13748</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>10290</treasureGoldMin>
-			<treasureGoldMax>63160</treasureGoldMax>
+			<treasureGoldMin>30870</treasureGoldMin>
+			<treasureGoldMax>189480</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>102900</treasureItemMin>
 			<treasureItemMax>180458</treasureItemMax>
@@ -11773,8 +11773,8 @@
 			<seeInvisible>6</seeInvisible>
 			<experience>581844</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>30870</treasureGoldMin>
-			<treasureGoldMax>189481</treasureGoldMax>
+			<treasureGoldMin>92610</treasureGoldMin>
+			<treasureGoldMax>568443</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>308700</treasureItemMin>
 			<treasureItemMax>541373</treasureItemMax>
@@ -11841,8 +11841,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>336</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>150</treasureGoldMin>
-			<treasureGoldMax>330</treasureGoldMax>
+			<treasureGoldMin>450</treasureGoldMin>
+			<treasureGoldMax>990</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>150</treasureItemMin>
 			<treasureItemMax>450</treasureItemMax>
@@ -11909,8 +11909,8 @@
 			<seeInvisible>2</seeInvisible>
 			<experience>2256</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>1050</treasureGoldMin>
-			<treasureGoldMax>2211</treasureGoldMax>
+			<treasureGoldMin>3150</treasureGoldMin>
+			<treasureGoldMax>6633</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>1050</treasureItemMin>
 			<treasureItemMax>3015</treasureItemMax>
@@ -11977,8 +11977,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>15123</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>7350</treasureGoldMin>
-			<treasureGoldMax>14814</treasureGoldMax>
+			<treasureGoldMin>22050</treasureGoldMin>
+			<treasureGoldMax>44442</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>7350</treasureItemMin>
 			<treasureItemMax>20201</treasureItemMax>
@@ -12045,8 +12045,8 @@
 			<seeInvisible>4</seeInvisible>
 			<experience>101325</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>51450</treasureGoldMin>
-			<treasureGoldMax>99252</treasureGoldMax>
+			<treasureGoldMin>154350</treasureGoldMin>
+			<treasureGoldMax>297756</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>51450</treasureItemMin>
 			<treasureItemMax>135343</treasureItemMax>
@@ -12113,8 +12113,8 @@
 			<seeInvisible>6</seeInvisible>
 			<experience>815192</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>154350</treasureGoldMin>
-			<treasureGoldMax>297755</treasureGoldMax>
+			<treasureGoldMin>463050</treasureGoldMin>
+			<treasureGoldMax>893265</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>154350</treasureItemMin>
 			<treasureItemMax>406030</treasureItemMax>
@@ -12181,8 +12181,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>367</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>150</treasureGoldMin>
-			<treasureGoldMax>330</treasureGoldMax>
+			<treasureGoldMin>450</treasureGoldMin>
+			<treasureGoldMax>990</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>150</treasureItemMin>
 			<treasureItemMax>450</treasureItemMax>
@@ -12249,8 +12249,8 @@
 			<seeInvisible>2</seeInvisible>
 			<experience>2461</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>1050</treasureGoldMin>
-			<treasureGoldMax>2211</treasureGoldMax>
+			<treasureGoldMin>3150</treasureGoldMin>
+			<treasureGoldMax>6633</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>1050</treasureItemMin>
 			<treasureItemMax>3015</treasureItemMax>
@@ -12317,8 +12317,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>16497</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>7350</treasureGoldMin>
-			<treasureGoldMax>14814</treasureGoldMax>
+			<treasureGoldMin>22050</treasureGoldMin>
+			<treasureGoldMax>44442</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>7350</treasureItemMin>
 			<treasureItemMax>20201</treasureItemMax>
@@ -12385,8 +12385,8 @@
 			<seeInvisible>4</seeInvisible>
 			<experience>110536</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>51450</treasureGoldMin>
-			<treasureGoldMax>99252</treasureGoldMax>
+			<treasureGoldMin>154350</treasureGoldMin>
+			<treasureGoldMax>297756</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>51450</treasureItemMin>
 			<treasureItemMax>135343</treasureItemMax>
@@ -12453,8 +12453,8 @@
 			<seeInvisible>6</seeInvisible>
 			<experience>629434</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>154350</treasureGoldMin>
-			<treasureGoldMax>297755</treasureGoldMax>
+			<treasureGoldMin>463050</treasureGoldMin>
+			<treasureGoldMax>893265</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>154350</treasureItemMin>
 			<treasureItemMax>406030</treasureItemMax>
@@ -12521,8 +12521,8 @@
 			<seeInvisible>4</seeInvisible>
 			<experience>1225</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>29400</treasureGoldMin>
-			<treasureGoldMax>59254</treasureGoldMax>
+			<treasureGoldMin>88200</treasureGoldMin>
+			<treasureGoldMax>177762</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>29400</treasureItemMin>
 			<treasureItemMax>80802</treasureItemMax>
@@ -12597,8 +12597,8 @@
 			<seeInvisible>6</seeInvisible>
 			<experience>8207</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>205800</treasureGoldMin>
-			<treasureGoldMax>397007</treasureGoldMax>
+			<treasureGoldMin>617400</treasureGoldMin>
+			<treasureGoldMax>1191021</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>205800</treasureItemMin>
 			<treasureItemMax>541373</treasureItemMax>
@@ -12675,8 +12675,8 @@
 			<seeInvisible>8</seeInvisible>
 			<experience>470430</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>617400</treasureGoldMin>
-			<treasureGoldMax>1191021</treasureGoldMax>
+			<treasureGoldMin>1852200</treasureGoldMin>
+			<treasureGoldMax>3573063</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>617400</treasureItemMin>
 			<treasureItemMax>1624120</treasureItemMax>
@@ -13108,8 +13108,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>0</experience>
 			<treasureGold>80</treasureGold>
-			<treasureGoldMin>12100</treasureGoldMin>
-			<treasureGoldMax>24200</treasureGoldMax>
+			<treasureGoldMin>36300</treasureGoldMin>
+			<treasureGoldMax>72600</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>24200</treasureItemMin>
 			<treasureItemMax>36300</treasureItemMax>
@@ -14235,8 +14235,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>305</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>300</treasureGoldMin>
-			<treasureGoldMax>1500</treasureGoldMax>
+			<treasureGoldMin>900</treasureGoldMin>
+			<treasureGoldMax>4500</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>900</treasureItemMin>
 			<treasureItemMax>3000</treasureItemMax>
@@ -14310,8 +14310,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>305</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>300</treasureGoldMin>
-			<treasureGoldMax>1500</treasureGoldMax>
+			<treasureGoldMin>900</treasureGoldMin>
+			<treasureGoldMax>4500</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>900</treasureItemMin>
 			<treasureItemMax>3000</treasureItemMax>
@@ -14385,8 +14385,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>459</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>900</treasureGoldMin>
-			<treasureGoldMax>4500</treasureGoldMax>
+			<treasureGoldMin>2700</treasureGoldMin>
+			<treasureGoldMax>13500</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>2700</treasureItemMin>
 			<treasureItemMax>9000</treasureItemMax>
@@ -14461,8 +14461,8 @@
 			<seeInvisible>2</seeInvisible>
 			<experience>2051</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>2100</treasureGoldMin>
-			<treasureGoldMax>10500</treasureGoldMax>
+			<treasureGoldMin>6300</treasureGoldMin>
+			<treasureGoldMax>31500</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>6300</treasureItemMin>
 			<treasureItemMax>21000</treasureItemMax>
@@ -14537,8 +14537,8 @@
 			<seeInvisible>2</seeInvisible>
 			<experience>2051</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>2100</treasureGoldMin>
-			<treasureGoldMax>10500</treasureGoldMax>
+			<treasureGoldMin>6300</treasureGoldMin>
+			<treasureGoldMax>31500</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>6300</treasureItemMin>
 			<treasureItemMax>21000</treasureItemMax>
@@ -14613,8 +14613,8 @@
 			<seeInvisible>2</seeInvisible>
 			<experience>3077</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>6300</treasureGoldMin>
-			<treasureGoldMax>31500</treasureGoldMax>
+			<treasureGoldMin>18900</treasureGoldMin>
+			<treasureGoldMax>94500</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>18900</treasureItemMin>
 			<treasureItemMax>63000</treasureItemMax>
@@ -14690,8 +14690,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>13748</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>14700</treasureGoldMin>
-			<treasureGoldMax>73500</treasureGoldMax>
+			<treasureGoldMin>44100</treasureGoldMin>
+			<treasureGoldMax>220500</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>44100</treasureItemMin>
 			<treasureItemMax>147000</treasureItemMax>
@@ -14767,8 +14767,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>13748</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>14700</treasureGoldMin>
-			<treasureGoldMax>73500</treasureGoldMax>
+			<treasureGoldMin>44100</treasureGoldMin>
+			<treasureGoldMax>220500</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>44100</treasureItemMin>
 			<treasureItemMax>147000</treasureItemMax>
@@ -14844,8 +14844,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>20622</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>44100</treasureGoldMin>
-			<treasureGoldMax>220500</treasureGoldMax>
+			<treasureGoldMin>132300</treasureGoldMin>
+			<treasureGoldMax>661500</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>132300</treasureItemMin>
 			<treasureItemMax>441000</treasureItemMax>
@@ -14922,8 +14922,8 @@
 			<seeInvisible>4</seeInvisible>
 			<experience>92113</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>102900</treasureGoldMin>
-			<treasureGoldMax>514500</treasureGoldMax>
+			<treasureGoldMin>308700</treasureGoldMin>
+			<treasureGoldMax>1543500</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>308700</treasureItemMin>
 			<treasureItemMax>1029000</treasureItemMax>
@@ -15001,8 +15001,8 @@
 			<seeInvisible>4</seeInvisible>
 			<experience>92113</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>102900</treasureGoldMin>
-			<treasureGoldMax>514500</treasureGoldMax>
+			<treasureGoldMin>308700</treasureGoldMin>
+			<treasureGoldMax>1543500</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>308700</treasureItemMin>
 			<treasureItemMax>1029000</treasureItemMax>
@@ -15080,8 +15080,8 @@
 			<seeInvisible>4</seeInvisible>
 			<experience>138170</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>308700</treasureGoldMin>
-			<treasureGoldMax>1543500</treasureGoldMax>
+			<treasureGoldMin>926100</treasureGoldMin>
+			<treasureGoldMax>4630500</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>926100</treasureItemMin>
 			<treasureItemMax>3087000</treasureItemMax>
@@ -15160,8 +15160,8 @@
 			<seeInvisible>6</seeInvisible>
 			<experience>490499</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>308700</treasureGoldMin>
-			<treasureGoldMax>1543500</treasureGoldMax>
+			<treasureGoldMin>926100</treasureGoldMin>
+			<treasureGoldMax>4630500</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>926100</treasureItemMin>
 			<treasureItemMax>3087000</treasureItemMax>
@@ -15239,8 +15239,8 @@
 			<seeInvisible>6</seeInvisible>
 			<experience>490499</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>308700</treasureGoldMin>
-			<treasureGoldMax>1543500</treasureGoldMax>
+			<treasureGoldMin>926100</treasureGoldMin>
+			<treasureGoldMax>4630500</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>926100</treasureItemMin>
 			<treasureItemMax>3087000</treasureItemMax>
@@ -15318,8 +15318,8 @@
 			<seeInvisible>6</seeInvisible>
 			<experience>786793</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>926100</treasureGoldMin>
-			<treasureGoldMax>4630500</treasureGoldMax>
+			<treasureGoldMin>2778300</treasureGoldMin>
+			<treasureGoldMax>13891500</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>2778300</treasureItemMin>
 			<treasureItemMax>9261000</treasureItemMax>
@@ -15775,8 +15775,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>20622</experience>
 			<treasureGold>0</treasureGold>
-			<treasureGoldMin>44100</treasureGoldMin>
-			<treasureGoldMax>220500</treasureGoldMax>
+			<treasureGoldMin>132300</treasureGoldMin>
+			<treasureGoldMax>661500</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>132300</treasureItemMin>
 			<treasureItemMax>441000</treasureItemMax>
@@ -15854,8 +15854,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>13748</experience>
 			<treasureGold>0</treasureGold>
-			<treasureGoldMin>102900</treasureGoldMin>
-			<treasureGoldMax>514500</treasureGoldMax>
+			<treasureGoldMin>308700</treasureGoldMin>
+			<treasureGoldMax>1543500</treasureGoldMax>
 			<treasureItem>30</treasureItem>
 			<treasureItemMin>308700</treasureItemMin>
 			<treasureItemMax>1029000</treasureItemMax>
@@ -16612,8 +16612,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>918</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>600</treasureGoldMin>
-			<treasureGoldMax>900</treasureGoldMax>
+			<treasureGoldMin>1800</treasureGoldMin>
+			<treasureGoldMax>2700</treasureGoldMax>
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -16688,8 +16688,8 @@
 			<seeInvisible>2</seeInvisible>
 			<experience>4823</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>4200</treasureGoldMin>
-			<treasureGoldMax>6030</treasureGoldMax>
+			<treasureGoldMin>12600</treasureGoldMin>
+			<treasureGoldMax>18090</treasureGoldMax>
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -16764,8 +16764,8 @@
 			<seeInvisible>3</seeInvisible>
 			<experience>25324</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>29400</treasureGoldMin>
-			<treasureGoldMax>40401</treasureGoldMax>
+			<treasureGoldMin>88200</treasureGoldMin>
+			<treasureGoldMax>121203</treasureGoldMax>
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -16841,8 +16841,8 @@
 			<seeInvisible>4</seeInvisible>
 			<experience>132953</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>205800</treasureGoldMin>
-			<treasureGoldMax>270687</treasureGoldMax>
+			<treasureGoldMin>617400</treasureGoldMin>
+			<treasureGoldMax>812061</treasureGoldMax>
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -16921,8 +16921,8 @@
 			<seeInvisible>4</seeInvisible>
 			<experience>1474632</experience>
 			<treasureGold>100</treasureGold>
-			<treasureGoldMin>617400</treasureGoldMin>
-			<treasureGoldMax>812060</treasureGoldMax>
+			<treasureGoldMin>1852200</treasureGoldMin>
+			<treasureGoldMax>2436180</treasureGoldMax>
 			<treasureItem>0</treasureItem>
 			<treasureItemMin>0</treasureItemMin>
 			<treasureItemMax>0</treasureItemMax>
@@ -18882,8 +18882,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>2450</experience>
 			<treasureGold>95</treasureGold>
-			<treasureGoldMin>2000</treasureGoldMin>
-			<treasureGoldMax>2500</treasureGoldMax>
+			<treasureGoldMin>6000</treasureGoldMin>
+			<treasureGoldMax>7500</treasureGoldMax>
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -18950,8 +18950,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>16078</experience>
 			<treasureGold>95</treasureGold>
-			<treasureGoldMin>15000</treasureGoldMin>
-			<treasureGoldMax>20000</treasureGoldMax>
+			<treasureGoldMin>45000</treasureGoldMin>
+			<treasureGoldMax>60000</treasureGoldMax>
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -19018,8 +19018,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>90000</experience>
 			<treasureGold>95</treasureGold>
-			<treasureGoldMin>80000</treasureGoldMin>
-			<treasureGoldMax>120000</treasureGoldMax>
+			<treasureGoldMin>240000</treasureGoldMin>
+			<treasureGoldMax>360000</treasureGoldMax>
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -19086,8 +19086,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>400000</experience>
 			<treasureGold>95</treasureGold>
-			<treasureGoldMin>400000</treasureGoldMin>
-			<treasureGoldMax>800000</treasureGoldMax>
+			<treasureGoldMin>1200000</treasureGoldMin>
+			<treasureGoldMax>2400000</treasureGoldMax>
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
@@ -19154,8 +19154,8 @@
 			<seeInvisible>1</seeInvisible>
 			<experience>2167835</experience>
 			<treasureGold>95</treasureGold>
-			<treasureGoldMin>1000000</treasureGoldMin>
-			<treasureGoldMax>2000000</treasureGoldMax>
+			<treasureGoldMin>3000000</treasureGoldMin>
+			<treasureGoldMax>6000000</treasureGoldMax>
 			<treasureItem>-1</treasureItem>
 			<treasureItemMin>-1</treasureItemMin>
 			<treasureItemMax>-1</treasureItemMax>
