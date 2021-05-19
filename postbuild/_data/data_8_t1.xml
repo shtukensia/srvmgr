@@ -45103,8 +45103,8 @@
 			<unitApplyMethod>1</unitApplyMethod>
 			<duration>0</duration>
 			<frequency>0</frequency>
-			<damageMin>10</damageMin>
-			<damageMax>17</damageMax>
+			<damageMin>9</damageMin>
+			<damageMax>16</damageMax>
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>70</scrollCost>
