@@ -10594,7 +10594,7 @@
 			<protectionFire>65</protectionFire>
 			<protectionWater>40</protectionWater>
 			<protectionAir>65</protectionAir>
-			<protectionEarth>90</protectionEarth>
+			<protectionEarth>88</protectionEarth>
 			<protectionAstral>100</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
@@ -10674,7 +10674,7 @@
 			<protectionFire>65</protectionFire>
 			<protectionWater>45</protectionWater>
 			<protectionAir>65</protectionAir>
-			<protectionEarth>93</protectionEarth>
+			<protectionEarth>91</protectionEarth>
 			<protectionAstral>100</protectionAstral>
 			<protectionBlade>100</protectionBlade>
 			<protectionAxe>100</protectionAxe>
@@ -45103,8 +45103,8 @@
 			<unitApplyMethod>1</unitApplyMethod>
 			<duration>0</duration>
 			<frequency>0</frequency>
-			<damageMin>8</damageMin>
-			<damageMax>14</damageMax>
+			<damageMin>10</damageMin>
+			<damageMax>17</damageMax>
 			<defensive>-1</defensive>
 			<skillOffset>0</skillOffset>
 			<scrollCost>70</scrollCost>
